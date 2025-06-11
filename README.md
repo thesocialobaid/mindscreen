@@ -1,5 +1,7 @@
 # MindScreen - A virtual Air Screen 
+
 ##Brief Overview 
+
 Developed a touchless interaction system that replicates screen control through webcam-based input. Designed with accessibility in mind, empowering individuals, particularly those with Parkinson’s,  to navigate digital interfaces without the need for physical devices.
 
 ## 🧰 Tech Stack 
